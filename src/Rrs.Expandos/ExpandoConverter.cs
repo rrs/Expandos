@@ -6,7 +6,7 @@ using System.Reflection;
 
 namespace Rrs.Expandos
 {
-    static class ExpandoConverter
+    public static class ExpandoConverter
     {
         public static ExpandoObject Convert<T>(T obj)
         {

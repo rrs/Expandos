@@ -2,7 +2,7 @@
 
 namespace Rrs.Expandos
 {
-    static class ObjectExtensions
+    public static class ObjectExtensions
     {
         public static ExpandoObject ToExpando<T>(this T obj)
         {
