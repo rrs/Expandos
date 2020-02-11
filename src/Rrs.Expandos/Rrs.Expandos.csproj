@@ -3,7 +3,7 @@
     <Description>Rrs.Expandos Class Library</Description>
     <Authors>Robert Snipe</Authors>
     <Copyright>Copyright (c) 2018 Robert Snipe</Copyright>
-    <TargetFramework>net40</TargetFramework>
+    <TargetFrameworks>net40;netstandard20</TargetFrameworks>
     <AssemblyName>Rrs.Expandos</AssemblyName>
     <PackageId>Rrs.Expandos</PackageId>
     <PackageTags>Expandos;ExpandoObject;Net40</PackageTags>

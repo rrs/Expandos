@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2003
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rrs.Expandos", "Rrs.Expandos\Rrs.Expandos.csproj", "{05A47467-6D59-4CAD-8C9C-D21A140CD595}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rrs.Expandos", "Rrs.Expandos\Rrs.Expandos.csproj", "{05A47467-6D59-4CAD-8C9C-D21A140CD595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Rrs.Expandos", "Tests.Rrs.Expandos\Tests.Rrs.Expandos.csproj", "{9078FC8B-908C-4245-BF02-5A62E8AA4E48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{05A47467-6D59-4CAD-8C9C-D21A140CD595}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05A47467-6D59-4CAD-8C9C-D21A140CD595}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05A47467-6D59-4CAD-8C9C-D21A140CD595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9078FC8B-908C-4245-BF02-5A62E8AA4E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9078FC8B-908C-4245-BF02-5A62E8AA4E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9078FC8B-908C-4245-BF02-5A62E8AA4E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9078FC8B-908C-4245-BF02-5A62E8AA4E48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
